@@ -1,2 +1,2 @@
 # datasciencecoursera
-The for Datascientists toolbox course
+The git repository for Datascientists toolbox course
